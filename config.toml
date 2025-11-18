@@ -4,9 +4,9 @@ account = "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA"
 commitment = "processed"
 
 [[endpoint]]
-name = "Jito Shredstream"
-url = "http://207.90.226.252:9999"
-kind = "shredstream"
+name = "Metal 2"
+url = "http://207.90.226.250:10000"
+kind = "yellowstone"
 
 [[endpoint]]
 name = "Geyser"
