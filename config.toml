@@ -1,5 +1,5 @@
 [config]
-transactions = 10000
+transactions = 100000
 account = "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA"
 commitment = "processed"
 
@@ -10,7 +10,7 @@ kind = "shredstream"
 
 [[endpoint]]
 name = "Bloxroute"
-#url = "http://207.90.225.162:9999"
-#kind = "shredstream"
-url = "http://207.90.225.252:10000"
-kind = "yellowstone"
+url = "http://207.90.225.162:9999"
+kind = "shredstream"
+#url = "http://207.90.225.252:10000"
+#kind = "yellowstone"
