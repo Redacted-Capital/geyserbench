@@ -4,11 +4,11 @@ account = "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA"
 commitment = "processed"
 
 [[endpoint]]
-name = "Metal 2"
-url = "http://207.90.226.250:10000"
-kind = "yellowstone"
+name = "Geyser"
+url = "http://207.90.225.252:9999"
+kind = "shredstream"
 
 [[endpoint]]
-name = "Geyser"
-url = "http://207.90.226.252:10000"
-kind = "yellowstone"
+name = "Bloxroute"
+url = "http:/207.90.225.162:9999"
+kind = "shredstream"
