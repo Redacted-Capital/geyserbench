@@ -5,12 +5,14 @@ commitment = "processed"
 
 [[endpoint]]
 name = "Geyser"
-url = "http://198.13.130.77:9999"
+#url = "http://198.13.130.77:9999"
+url = "http://207.90.227.252:9999"
 kind = "shredstream"
 
 [[endpoint]]
 name = "Bloxroute"
-url = "http://198.13.130.155:9999"
+#url = "http://198.13.130.155:9999"
+url = "http://207.90.227.163:9999"
 kind = "shredstream"
 #url = "http://207.90.225.252:10000"
 #kind = "yellowstone"
