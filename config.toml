@@ -4,15 +4,15 @@ account = "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA"
 commitment = "processed"
 
 [[endpoint]]
-name = "Geyser"
+name = "Reg"
 #url = "http://198.13.130.77:9999"
-url = "http://207.90.227.252:9999"
+url = "http://45.45.156.252:9999"
 kind = "shredstream"
 
 [[endpoint]]
-name = "Bloxroute"
+name = "Turbine"
 #url = "http://198.13.130.155:9999"
-url = "http://207.90.227.163:9999"
+url = "http://45.45.156.163:9999"
 kind = "shredstream"
 #url = "http://207.90.225.252:10000"
 #kind = "yellowstone"
