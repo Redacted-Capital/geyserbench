@@ -1,6 +1,6 @@
 [config]
 transactions = 10000
-account = "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA"
+account = "9H6tua7jkLhdm3w8BvgpTn5LZNU7g4ZynDmCiNN3q6Rp"
 commitment = "processed"
 
 [[endpoint]]
