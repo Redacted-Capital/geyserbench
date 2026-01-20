@@ -7,7 +7,7 @@ commitment = "processed"
 name = "Jet"
 #url = "http://198.13.130.77:9999"
 url = "http://ams.jetstream.orbitflare.com:80"
-kind = "yellowstone"
+kind = "jetstream"
 
 [[endpoint]]
 name = "Redacted"
