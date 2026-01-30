@@ -4,16 +4,16 @@ account = "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA"
 commitment = "processed"
 
 [[endpoint]]
-name = "Geyser"
-url = "http://207.90.227.252:9999"
-kind = "shredstream"
-#url = "http://ams.jetstream.orbitflare.com:80"
-#kind = "jetstream"
+name = "Jet"
+#url = "http://207.90.227.252:9999"
+#kind = "shredstream"
+url = "http://ams.jetstream.orbitflare.com:80"
+kind = "jetstream"
 
 [[endpoint]]
-name = "Staked"
+name = "Redacted"
 #url = "http://198.13.130.155:9999"
 #url = "http://45.45.156.163:9999"
-url = "http://207.90.227.163:9999"
+url = "http://207.90.225.163:9999"
 kind = "shredstream"
 #kind = "yellowstone"
