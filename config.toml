@@ -4,11 +4,11 @@ account = "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA"
 commitment = "processed"
 
 [[endpoint]]
-name = "Jet"
-#url = "http://207.90.227.252:9999"
-#kind = "shredstream"
-url = "http://ams.jetstream.orbitflare.com:80"
-kind = "jetstream"
+name = "Redacted-Shredstream"
+url = "http://207.90.225.163:9999"
+kind = "shredstream"
+#url = "http://ams.jetstream.orbitflare.com:80"
+#kind = "jetstream"
 
 [[endpoint]]
 name = "Redacted"
