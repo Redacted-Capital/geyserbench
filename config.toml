@@ -7,6 +7,7 @@ commitment = "processed"
 name = "OrbitFlare"
 url = "http://ams.rpc.orbitflare.com:10000"
 kind = "yellowstone"
+x_token = "ORBIT-YPUBAK-893760-776448"
 #url = "http://ams.jetstream.orbitflare.com:80"
 #kind = "jetstream"
 
