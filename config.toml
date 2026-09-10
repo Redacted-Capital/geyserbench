@@ -13,8 +13,8 @@ x_token = "ORBIT-YPUBAK-893760-776448"
 #kind = "shredstream"
 
 [[endpoint]]
-name = "Redacted"
-#url = "http://198.13.130.155:9999"
-url = "http://207.90.227.252:10000"
+name = "Triton"
+url = "https://riptide.rpcpool.com"
+x_token = "a50c8dba-ba2a-423a-9d45-5bd5210e1304"
 #kind = "shredstream"
 kind = "yellowstone"
